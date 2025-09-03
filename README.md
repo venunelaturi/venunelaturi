@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Hi there! I'm [Your Name]
 
@@ -25,9 +24,9 @@ I'm a recent graduate with a strong foundation in data analytics, statistics, an
 
 Here are a few projects I've worked on:
 
-- 📈 **Super store Sales Analysis  Dashboard** – Built an interactive Power BI dashboard to analyze regional sales performance.
+- 📈 **Customer Data Analysis Dashboard** – Built an interactive Power BI dashboard to analyze regional sales performance.
 - 🧹 **Data Cleaning with Python** – Cleaned and transformed messy datasets using Pandas and NumPy.
-- 📊 **Customer Data Analysis** – Analysed data to identify customer groups for targeted marketing.
+- 📊 **SuperStore Data Analysis** – Analysed data to identify customer groups for targeted marketing.
 
 > Check out my repositories to explore more!
 
@@ -35,8 +34,8 @@ Here are a few projects I've worked on:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]()
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/venu-nelaturi)
+- 📧 Email: nelaturivenu3@gmail.com
 
 ---
 
