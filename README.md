@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Nelaturi Venu Madhava Reddy]
 
 🎯 Aspiring Data Analyst | 📊 Passionate about turning data into actionable insights
 
