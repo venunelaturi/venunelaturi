@@ -25,7 +25,7 @@ I'm a recent graduate with a strong foundation in data analytics, statistics, an
 Here are a few projects I've worked on:
 
 - 📈 **Customer Data Analysis Dashboard** – Built an interactive Power BI dashboard to analyze regional sales performance.
-- 🧹 **Data Cleaning with Python** – Cleaned and transformed messy datasets using Pandas and NumPy.
+- 🧹 **Data Cleaning with Python(Airlines flights Data Analysis)** – Cleaned and transformed messy datasets using Pandas and NumPy.
 - 📊 **SuperStore Data Analysis** – Analysed data to identify customer groups for targeted marketing.
 
 > Check out my repositories to explore more!
